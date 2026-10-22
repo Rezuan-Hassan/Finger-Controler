@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finger Controler</string>
+    <string name="accessibility_service_name">Finger Controler Gestures</string>
+    <string name="accessibility_service_description">Enables finger tracking gestures to control the on-screen cursor, left click, continuous scroll, play/pause media, mute, and screenshot across your device.</string>
+</resources>
